@@ -1,0 +1,5 @@
+package soal2;
+
+public interface InteraksiInternet {
+    void hubungkanWiFi();
+}
